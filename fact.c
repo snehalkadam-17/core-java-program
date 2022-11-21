@@ -13,6 +13,7 @@ int i,fact=1,n;
   }
   println("\n fact=%d",fact);
   addD();
+  printf("WelCome");
 }
 void add()
 {
