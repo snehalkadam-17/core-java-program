@@ -24,4 +24,12 @@ void add()
   c=a+b;
   printf("addition of two numbers:%d",c);
 }
-    
+    void sub()
+{
+  int a,b,c;
+  printf("\n enter a,b:");
+  scanf("%d%d",&a,&b);
+  c=a-b;
+  printf("subtraction of two numbers:%d",c);
+}
+
